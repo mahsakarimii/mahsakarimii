@@ -8,6 +8,9 @@ I am:
 
 - 📫 You can reach me via [mahsa.karimi1@ucalgary.ca](mailto:mahsa.karimi1@ucalgary.ca)
 
+PLease visit my previous work at:
+- [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=ViUxcPAAAAAJ&hl=en)
+
 > 🧠 *"If you don't do anything, nothing will happen in your life."*  
 > — *Newton's Second Law (personal interpretation)*
 
