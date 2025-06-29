@@ -2,7 +2,7 @@
 
 Welcome to my profile!
 
-I am:
+I am Mahsa Karimi:
 - 🎓 a PhD student in quantum computing,
 - 🔭 currently working on gate error characterization. Please visit my previous works at [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=ViUxcPAAAAAJ&hl=en).
 
